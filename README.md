@@ -1,6 +1,6 @@
 # Transporter
 
-__A simple Java game. __
+__A simple Java game.__
 
 Player is required to transport the four cargo on the surface of the planet to the Space Station running over the planet. The time is limited since that once the Space Station is going out of sight, player has no idea where to transport the cargo.
 
