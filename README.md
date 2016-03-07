@@ -10,15 +10,18 @@ Player has to control the thrusters well with arrow keys, either to remain a rel
 
 #### Some screenshots
 
-> Control the thrusters well. The longer the flame, the larger the acceleration.
+Control the thrusters well. The longer the flame, the larger the acceleration.
 ![](/screenshots/transporter.png?raw=true)
 
-> When entering the unloading zone and keeping relative rest to the Space Station, the zone border will turn green.
+
+When entering the unloading zone and keeping relative rest to the Space Station, the zone border will turn green.
 ![](/screenshots/transporter2.png?raw=true)
 
-> If you hit ground, you burst up.
+
+If you hit ground, you burst up.
 ![](/screenshots/transporter3.png?raw=true)
 
-> Transporting complete.
+
+Transporting complete.
 ![](/screenshots/transporter4.png?raw=true)
 
